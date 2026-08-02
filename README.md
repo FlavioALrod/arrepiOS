@@ -170,7 +170,7 @@ R: Teoricamente sim. Na prática... talvez. Me avise se funcionar.
 P: Posso usar em produção?
 R: Pode. Mas eu não recomendaria. Mas você pode. Mas não deveria. Mas se quiser...
 
-## 📦 Como Instalar (se você realmente quiser)
+## 📦 Como Instalar
 
 ```bash
 # Clone o repositório
