@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/discoelysium_gamepedia_en/images/2/2d/Portrait_shivers.png/revision/latest?cb=20190719153914" alt="Logo do ARREPIOS" width="500"/>
+</p>
+
+<h1 align="center">🕵️‍♂️ ARREPIOS</h1>
+
 # 🕵️‍♂️ ARREPIOS - Advanced Radar for Reconnaissance, Enumeration, and Protocol Inspection & Operational Security
 
 *"Porque escanear rede dá arrepios... ou seria ARREPIOS?"*
 
-## 🚧 EM DESENVOLVIMENTO ATIVO - VERSÃO ALPHA (Leia-se: "Funciona na minha máquina") 🚧
+## 🚧 EM DESENVOLVIMENTO ATIVO - VERSÃO ALPHA 🚧
 
 > *"Por que usar nmap se você pode passar raiva com seu próprio script?"*
 
