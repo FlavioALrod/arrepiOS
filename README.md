@@ -65,7 +65,7 @@ Este é um **escaneador de rede "profissional"** que:
 ## ⏰ Previsão de Lançamento
 
 **"Quando estiver pronto"™** - Ou seja, quando eu:
-- Tiver tempo livre (hahaha)
+- Tiver tempo livre
 - Não estiver procrastinando no YouTube
 - Lembrar que esse projeto existe
 
