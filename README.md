@@ -52,7 +52,6 @@ Este é um **escaneador de rede "profissional"** que:
 - **Protocol Fingerprinting**: Identificando serviços como um detetive de rede
 
 ### ⚡ Funcionalidades Avançadas
-- **Comandos Remotos**: Porque dar comandos em dispositivos alheios é mais legal
 - **Escaneamento Inteligente**: Apenas dispositivos que você realmente se importa
 - **Modo Furtivo**: Para quando você quer se sentir um espião (use com responsabilidade)
 
