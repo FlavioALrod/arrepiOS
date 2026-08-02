@@ -84,7 +84,8 @@ Este é um **escaneador de rede "profissional"** que:
 | **Café** | Combustível principal |
 
 ---
-🗺️ Roadmap (Sonhos Molhados)
+##🗺️ Roadmap (Sonhos Molhados)
+
 v0.1.0 - MVP (já foi)
 ├── Escaneamento básico
 ├── Exportação XML
@@ -104,6 +105,8 @@ v1.0.0 - Lançamento oficial
 ├── Todas as features prometidas
 ├── Documentação completa
 └── Café incluso (mentira)
+
+---
 
 🤝 Como Contribuir
 Contribuições são MUITO bem-vindas! Siga estes passos:
