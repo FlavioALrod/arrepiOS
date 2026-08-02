@@ -2,7 +2,7 @@
   <img src="https://static.wikia.nocookie.net/discoelysium_gamepedia_en/images/2/2d/Portrait_shivers.png/revision/latest?cb=20190719153914" alt="Logo do ARREPIOS" width="500"/>
 </p>
 
-<h1 align="center">🕵️‍♂️ ARREPIOS</h1>
+<h1 align="center">ARREPIOS</h1>
 
 # 🕵️‍♂️ ARREPIOS - Advanced Radar for Reconnaissance, Enumeration, and Protocol Inspection & Operational Security
 
