@@ -16,7 +16,7 @@
 
 ## 📡 O que é o ARREPIOS?
 
-**ARREPIOS** é um framework de escaneamento de rede que veio para provar que:
+**ARREPIOS** é um programa de escaneamento de rede que veio para provar que:
 - Sim, você pode reinventar a roda em Python
 - Não, você não deveria, mas é mais divertido
 - Sim, o nome é um acrônimo forçado (e eu estou orgulhoso disso)
