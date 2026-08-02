@@ -79,26 +79,6 @@ Este é um **escaneador de rede "profissional"** que:
 | **Café** | Combustível principal |
 
 ---
-
-## 📦 Como Instalar (se você realmente quiser)
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/arrepiOS.git
-cd arrepiOS
-
-# Crie um ambiente virtual (porque somos profissionais)
-python3 -m venv venv
-source venv/bin/activate  # Linux/Mac
-# ou
-venv\Scripts\activate     # Windows
-
-# Instale as dependências
-nmap "https://nmap.org/"
-
-# Reze para funcionar
-python3 main.py
-
 🗺️ Roadmap (Sonhos Molhados)
 v0.1.0 - MVP (já foi)
 ├── Escaneamento básico
@@ -183,3 +163,24 @@ R: Teoricamente sim. Na prática... talvez. Me avise se funcionar.
 
 P: Posso usar em produção?
 R: Pode. Mas eu não recomendaria. Mas você pode. Mas não deveria. Mas se quiser...
+
+## 📦 Como Instalar (se você realmente quiser)
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/arrepiOS.git
+cd arrepiOS
+
+# Crie um ambiente virtual (porque somos profissionais)
+python3 -m venv venv
+source venv/bin/activate  # Linux/Mac
+# ou
+venv\Scripts\activate     # Windows
+
+# Instale as dependências
+nmap "https://nmap.org/"
+
+# Reze para funcionar
+python3 main.py
+
+
